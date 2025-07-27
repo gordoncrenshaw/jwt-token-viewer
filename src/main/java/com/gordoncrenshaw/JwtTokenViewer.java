@@ -2,9 +2,7 @@ package com.gordoncrenshaw;
 
 
 import java.io.StringReader;
-/*
- * Code taken from https://www.baeldung.com/java-jwt-token-decode
- */
+
 import java.util.Base64;
 
 import com.google.gson.Gson;
