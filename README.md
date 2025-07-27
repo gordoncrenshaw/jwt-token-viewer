@@ -8,7 +8,7 @@ Fitbit creates JWT tokens to be used as Bearer or access tokens when calling the
 
 ## Compiling the code
 
-I build this example using the IDE VS Code.  It's a java maven project, and uses the gson libraries to parse the JSON string.
+I build this example using the IDE VS Code.  The java code uses the gson libraries to parse the JSON string.
 
 ## Acknowledgement
 
