@@ -1,6 +1,6 @@
 # jwt-token-viewer
 
-## What is a JWT token
+## What is a JWT token?
 
 A JSON Web Token (JWT) is a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs are commonly used for authentication and information exchange.
 
